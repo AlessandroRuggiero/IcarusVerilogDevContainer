@@ -1,6 +1,6 @@
 {
 	"name": "Icarus Verilog",
-	"image": "ghcr.io/alessandroruggiero/icarus-verilog-devcontainer:0.0.3",
+	"image": "ghcr.io/alessandroruggiero/icarus-verilog-devcontainer:latest",
 	"customizations": {
 		"vscode": {
 			"extensions": [

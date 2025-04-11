@@ -1,4 +1,3 @@
-# Use the base image from the devcontainer.json file
 FROM mcr.microsoft.com/devcontainers/base:jammy
 
 RUN apt-get update && \
