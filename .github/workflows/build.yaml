@@ -23,4 +23,4 @@ jobs:
         context: .
         file: .devcontainer/Dockerfile
         push: true
-        tags: ghcr.io/AlessandroRuggiero/icarus_verilog_devcontainer:${{ github.event.release.tag_name }}
+        tags: ghcr.io/alessandroruggiero/icarus-verilog-devcontainer:${{ github.event.release.tag_name }}
