@@ -1,6 +1,13 @@
 {
 	"name": "Icarus Verilog",
-	"build": {
-		"dockerfile": "Dockerfile"
-	}
+	"image": "ghcr.io/alessandroruggiero/icarus-verilog-devcontainer:0.0.3",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"mshr-h.veriloghdl"
+			]
+		}
+	},
+	"postCreateCommand": "",
+	"remoteUser": "vscode"
 }
