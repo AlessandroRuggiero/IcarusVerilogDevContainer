@@ -1,0 +1,6 @@
+{
+	"name": "Icarus Verilog",
+	"build": {
+		"dockerfile": "Dockerfile"
+	}
+}
