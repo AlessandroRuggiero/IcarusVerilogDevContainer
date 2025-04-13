@@ -1,6 +1,6 @@
 # Icarus Verilog Development Container
 
-This repository provides a development environment configured for working with [Icarus Verilog](http://iverilog.icarus.com/), a popular open-source Verilog simulation and synthesis tool. The environment is set up using Docker to ensure consistency and ease of use across different systems.
+This repository provides a development environment configured for working with [Icarus Verilog](https://github.com/steveicarus/iverilog), a popular open-source Verilog simulation and synthesis tool. The environment is set up using Docker to ensure consistency and ease of use across different systems.
 
 ## Features
 
