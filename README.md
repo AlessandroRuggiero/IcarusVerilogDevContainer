@@ -8,6 +8,12 @@ This repository provides a development environment configured for working with [
 - **Portable Development Environment**: Work in a consistent environment across different systems without worrying about local dependencies.
 - **Streamlined Workflow**: Easily compile, simulate, and debug Verilog designs with Icarus Verilog in the container.
 
+### The DevContaine contains:
+
+1. Icarus Verilog: A Verilog simulation and synthesis tool.
+2. GTKWave: A waveform viewer for analyzing simulation outputs.
+
+
 ## Getting Started
 
 ### Prerequisites
